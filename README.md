@@ -10,7 +10,13 @@ Cloud Native app on K8S to monitor system resources using python
 - [x]  Docker and Kubectl installed.
 - [x]  Code editor (Vscode)
 
+# Project Review
+
+
 # Let’s Start the Project 
+![Screenshot (6)](https://github.com/user-attachments/assets/4359d85b-54b0-4be8-82fc-10951b8e86bc)
+![Screenshot (4)](https://github.com/user-attachments/assets/42fa81eb-73d2-48f9-b5f7-8f538e2ccef9)
+
 
 ## **Part 1: Deploying the Flask application locally**
 
